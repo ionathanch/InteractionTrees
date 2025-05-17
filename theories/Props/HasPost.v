@@ -6,7 +6,8 @@ From ITree Require Import
      ITree
      Eq.Eqit
      Basics.HeterogeneousRelations
-     Interp.TranslateFacts.
+     Interp.TranslateFacts
+     KTreeFacts.
 Set Implicit Arguments.
 Set Strict Implicit.
 (* end hide *)
